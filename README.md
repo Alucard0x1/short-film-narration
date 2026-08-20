@@ -24,6 +24,21 @@ Both modes follow a 3-act arc with per-minute beats, and enforce screenwriting c
 
 The folder follows the layout agents expect for skills — a directory whose name matches the skill, containing `SKILL.md` at the root.
 
+### Via npx (zero clone)
+
+```bash
+# print the skill to stdout
+npx -y github:Alucard0x1/short-film-narration
+
+# install into .claude/skills or .cursor/skills (auto-detected)
+npx -y github:Alucard0x1/short-film-narration install
+
+# install into a specific directory
+npx -y github:Alucard0x1/short-film-narration install ./my-agents/skills
+```
+
+### Manually
+
 - **Claude Code**: copy the folder to `~/.claude/skills/short-film-narration/` (or add to a repo under `.claude/skills/`).
 - **Cursor**: copy to `.cursor/skills/short-film-narration/` or add via Cursor Settings → Skills.
 - **OpenAI Codex / AGENTS.md-based agents**: add to `AGENTS.md`:
