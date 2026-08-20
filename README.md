@@ -1,8 +1,13 @@
 # Short Film Narration — Agent Skill
 
-A portable, **agent-agnostic** skill for writing complete 10-minute short film narration (voice-over + visual + SFX + dialogue) with per-scene timestamps and a 3-act structure.
+A portable, **agent-agnostic** skill for writing complete 10-minute short film scripts in **two modes**:
 
-- Skill file written in **English**; the narration is written in the **user's request language** (multilingual pace calibration included — Indonesian, English, Spanish, French, German, Arabic, Japanese, Mandarin)
+- **Screenplay Mode** — industry-standard naskah (title page, logline, character list, sluglines, action lines, character cues, dialogue, transitions; ~1 page = 1 minute)
+- **Narration Mode** — voice-over/audio-first scripts with per-scene timestamps (VISUAL / VO / DIALOG / SFX)
+
+Both modes follow a 3-act arc with per-minute beats, and enforce screenwriting craft rules: active protagonist, real stakes, cause-and-effect (no deus ex machina), show-don't-tell, and an antagonist that actively opposes.
+
+- Skill file written in **English**; the script is written in the **user's request language** (multilingual pace calibration included — Indonesian, English, Spanish, French, German, Arabic, Japanese, Mandarin)
 - Zero dependencies: no scripts, no APIs, no network — pure text instructions any agent can follow
 - Uses the standard agent-skill format: YAML frontmatter + markdown body (`SKILL.md`)
 
@@ -11,7 +16,8 @@ A portable, **agent-agnostic** skill for writing complete 10-minute short film n
 | File | Purpose |
 |---|---|
 | `SKILL.md` | The skill itself (canonical, single source of truth) |
-| `references/example-wayang-ujung-senja.md` | Full worked 10-minute example in Indonesian (demonstrates non-English output) |
+| `references/example-wayang-ujung-senja.md` | Full worked 10-minute example — Narration Mode (Indonesian) |
+| `references/example-tidak-pelit-membuatku-kaya.md` | Full worked 10-minute example — Screenplay Mode (Indonesian) |
 | `LICENSE` | MIT |
 
 ## Install
@@ -22,20 +28,20 @@ The folder follows the layout agents expect for skills — a directory whose nam
 - **Cursor**: copy to `.cursor/skills/short-film-narration/` or add via Cursor Settings → Skills.
 - **OpenAI Codex / AGENTS.md-based agents**: add to `AGENTS.md`:
   ```
-  Read SKILL.md from the short-film-narration skill folder when the user asks for short film narration or a 10-minute script.
+  Read SKILL.md from the short-film-narration skill folder when the user asks for short film narration or a 10-minute script/naskah.
   ```
 - **Hermes Agent**: place under `skills/creative/short-film-narration/`.
-- **Any other LLM / chat**: paste the contents of `SKILL.md` into the conversation and ask for a 10-minute short film narration.
+- **Any other LLM / chat**: paste the contents of `SKILL.md` into the conversation and ask for a 10-minute short film script.
 
 ## Usage
 
 Ask in any supported language, e.g.:
 
 - "Write a 10-minute short film narration about a lighthouse keeper who loses his sight."
-- "Buatkan narasi film pendek 10 menit tentang penjaga mercusuar."
+- "Buatkan naskah film pendek 10 menit tentang penjaga mercusuar." (→ Screenplay Mode)
 - "10分の短編映画のナレーションを書いて。"
 
-The agent detects the language, builds a 10-beat 3-act sheet, writes timed scenes (`[MM:SS] SCENE` blocks with VISUAL / VO / DIALOG / SFX), and calibrates the word count to the target language's narration pace.
+The agent detects the language and mode, builds a 10-beat 3-act sheet, writes the script with proper formatting, and calibrates duration (page count for screenplay mode, word count for narration mode).
 
 ## License
 
