@@ -1,7 +1,7 @@
 ---
 name: short-film-narration
 description: "10-min short film scripts: narration or screenplay format."
-version: 1.2.0
+version: 1.3.0
 author: Alucard0x1, Hermes Agent
 license: MIT
 platforms: [linux, macos, windows]
@@ -56,6 +56,7 @@ SFX/MUSIC: sound/music cue
 - **Arc costs**: the character's flaw must cost them something before they change.
 - **One minute = one beat**: each minute/page carries one clear story beat.
 - **No talking-head scenes**: every scene has a visual action beat AND a sound/music cue — even in dialogue-heavy scenes.
+- **Natural language**: write in the natural spoken register of the target language — dialogue and action should sound like real people talking, never like translated prose. Colloquialisms are welcome; stiff formal book-language is a red flag. Read aloud: would a real person actually say this?
 
 ## 10-Minute Structure (3 Acts)
 - **ACT 1 (0:00–2:30):** Hook (first 15–30 s) + setup: character, want, obstacle; end act 1 with the inciting incident
@@ -97,6 +98,7 @@ Voice-over pace (approximate, read-aloud):
 - Coincidence ending / deus ex machina → rewrite so the protagonist's choices cause the resolution
 - Camera directions in a spec script → remove (director's job)
 - Scene with dialogue only (no visual action beat, no sound cue) → add both
+- Translated-sounding prose or stiff formal dialogue → rewrite in the natural spoken register of the target language
 - VO over 1,000 words or script over 11 pages → runtime balloons; trim
 - Open ending without payoff → resolution must close the loop
 

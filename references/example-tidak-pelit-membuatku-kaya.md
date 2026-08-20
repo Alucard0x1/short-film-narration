@@ -3,16 +3,16 @@
 **Ditulis oleh:** Alucard0x1
 **Genre:** Drama keluarga · **Durasi:** ±10 menit (10 halaman)
 
-**LOGLINE:** Pemilik warung paling pelit di kampung menolak memberi makan seorang kakek kelaparan — lalu harus memilih antara tabungannya atau warungnya yang terancam digusur, saat warga yang diam-diam ia beri makan datang membela.
+**LOGLINE:** Samsul, pemilik warung paling pelit se-kampung, menolak memberi makan seorang kakek kelaparan. Saat warungnya terancam digusur, orang-orang yang dulu diam-diam ia beri makan datang membela.
 
 ## KARAKTER
-- **SAMSUL (50)** — pemilik warung nasi; pelit karena keluarganya dulu bangkrut ditipu tetangga. Inginkannya: warungnya bertahan.
-- **RATNA (45)** — istrinya; sabar, tapi mulai lelah.
-- **BIMA (19)** — karyawan yatim piatu; warung ini rumah keduanya.
-- **PAK DARTO (55)** — pemilik warung sebelah; rival yang iri dan suka menyebar fitnah.
-- **PAK LURAH (60)** — pemilik tanah; pelaksana aturan.
-- **KAK TUA (70)** — gelandangan; katalis cerita.
-- **BUK WARSIH (50)** — janda; tetangga yang anaknya sakit.
+- **SAMSUL (50)** — pemilik warung nasi. Pelit karena dulu keluarganya bangkrut ditipu tetangga. Keinginannya cuma satu: warungnya bertahan.
+- **RATNA (45)** — istrinya. Sabar, tapi mulai capek.
+- **BIMA (19)** — karyawan yatim piatu. Warung ini rumah keduanya.
+- **PAK DARTO (55)** — pemilik warung sebelah. Iri, dan suka bicara di belakang.
+- **PAK LURAH (60)** — pemilik tanah. Menjalankan aturan.
+- **KAK TUA (70)** — gelandangan. Pemicu cerita.
+- **BUK WARSIH (50)** — janda. Anaknya lagi sakit.
 - **WARGA KAMPUNG** — ibu-ibu, anak-anak.
 
 ---
@@ -21,44 +21,44 @@ FADE IN:
 
 INT. WARUNG SAMSUL — PAGI
 
-Warung kecil: tiga meja, satu etalase kaca, dan sebuah CELENGAN KACA besar di pojok — penuh uang, tersusun rapi seperti pasukan.
+Warung kecil: tiga meja, satu etalase kaca, dan celengan kaca besar di pojok — penuh uang, rapi berbaris.
 
-SAMSUL (50), kumis tipis, celemek lusuh, menakar SAMBAL dengan sendok kecil. Setiap takaran ditimbang. RATNA (45) menatap dari dapur, menghela napas.
+SAMSUL (50), kumis tipis, celemek lusuh, menakar SAMBAL pakai sendok kecil. Ditimbang-timbang dulu, baru ditaruh. RATNA (45) menatap dari dapur, menghela napas.
 
-SFX/MUSIK: Gamelan kliningan lirih dari radio; sendok logam beradu di mangkuk.
+SFX/MUSIK: Gamelan kliningan pelan dari radio; sendok logam beradu di mangkuk.
 
 RATNA
-Sam. Tiga kali makan, tiga takaran. Ini warung, bukan apotek.
+Sam, tiga kali makan tiga takaran. Ini warung, bukan apotek.
 
 SAMSUL
 Sambal itu modal, Rat. Modal itu nyawa.
 
-Di depan warung, KAK TUA (70) — baju kusut, mata sayu — berdiri. Menunduk.
+Di depan warung, KAK TUA (70) — baju kusut, mata sayu — berdiri menunduk.
 
 KAK TUA
-Nak... segelas air saja.
+Nak... minta air minum aja.
 
 Samsul meraih gelas. Berhenti. Gelas dikembalikan.
 
 SAMSUL
-Air mahal, Pak. Maaf.
+Air juga modal, Pak. Maaf.
 
-Kak Tua mengangguk pelan, berbalik. Dari belakang, BIMA (19) menyusulnya dengan piring berisi nasi dan telur ceplok.
+Kak Tua mengangguk pelan, berbalik. Dari belakang, BIMA (19) menyusul dengan piring berisi nasi dan telur ceplok.
 
 BIMA
-Kek. Makan dulu.
+Kek, makan dulu.
 
-Samsul mengepalkan tangan. Tidak berkata apa-apa.
+Samsul mengepalkan tangan. Nggak bilang apa-apa.
 
-SFX/MUSIK: Radio berhenti sejenak saat Samsul mengepalkan tangan.
+SFX/MUSIK: Radio mati sejenak saat Samsul mengepalkan tangan.
 
 CUT TO:
 
 INT. WARUNG SAMSUL — SIANG
 
-Warung kosong. Di seberang, WARUNG DARTO ramai; orang mengantre. PAK DARTO (55), perut buncit, melayani dengan senyum lebar.
+Warung kosong. Di seberang, WARUNG DARTO ramai, orang antre. PAK DARTO (55), perut buncit, melayani sambil senyum lebar.
 
-SFX/MUSIK: Tawa dan keramaian warung sebelah; koran dibuka.
+SFX/MUSIK: Tawa dan ramainya warung sebelah; suara koran dibuka.
 
 PAK DARTO (O.S.)
 (terdengar jelas)
@@ -73,7 +73,7 @@ SAMSUL
 Tabungan kita utuh. Itu yang penting.
 
 RATNA
-Tabungan tidak bisa dimakan.
+Tabungan nggak bisa dimakan.
 
 Samsul diam. Tangannya mengelus celengan seperti anak kecil.
 
@@ -81,45 +81,45 @@ SFX/MUSIK: Kaca celengan diketuk pelan.
 
 EXT. WARUNG SAMSUL — SORE
 
-PAK LURAH (60) berdiri di depan warung, membawa selembar surat. Samsul membaca. Tangannya gemetar.
+PAK LURAH (60) berdiri di depan warung sambil memegang selembar surat. Samsul membaca. Tangannya gemetar.
 
 SFX/MUSIK: Angin sore; sepeda motor lewat; kertas surat berkerisik.
 
 PAK LURAH
-Tanah ini mau dibangun ruko. Sewa naik dua kali lipat bulan depan. Kalau tidak sanggup—
+Tanah ini mau dibangun ruko. Sewa naik dua kali lipat bulan depan. Kalau nggak sanggup—
 
 SAMSUL
 Sanggup. Kami sanggup.
 
-Pak Lurah mengangguk ragu, pergi. Samsul memandang celengan. Isinya baru sepertiga dari yang dibutuhkan.
+Pak Lurah mengangguk ragu, pergi. Samsul memandang celengan. Isinya belum sepertiga dari yang dibutuhkan.
 
-SFX/MUSIK: Musik gamelan berubah sendu.
+SFX/MUSIK: Gamelan berubah sendu.
 
 INT. WARUNG SAMSUL — MALAM
 
-Samsul menghitung uang di meja. Angka di buku kas: minus. Ratna tertidur di kursi. BIMA duduk di sudut, diam-diam membungkus NASI dengan daun pisang — tiga bungkus.
+Samsul menghitung uang di meja. Angka di buku kas: minus. Ratna tertidur di kursi. BIMA duduk di sudut, diam-diam membungkus NASI pakai daun pisang — tiga bungkus.
 
-SFX/MUSIK: Jangkrik; daun pisang dibungkus pelan.
+SFX/MUSIK: Jangkrik; daun pisang dibungkus pelan-pelan.
 
 SAMSUL
-Itu untuk apa?
+Itu buat apa?
 
 BIMA
 (berhenti)
-Untuk Buk Warsih, Pak. Anaknya sakit. Beliau tidak masak.
+Buat Buk Warsih, Pak. Anaknya lagi sakit, jadi nggak sempat masak.
 
 SAMSUL
-Dari modal siapa itu?
+Itu pakai modal siapa?
 
 BIMA
-Dari jatah makan saya, Pak.
+Pakai jatah makan saya, Pak.
 
-Samsul ingin marah. Tidak jadi. Dia membuka celengan, mengeluarkan satu lembar uang, menyerahkannya.
+Samsul mau marah. Nggak jadi. Dia buka celengan, keluarkan selembar uang, serahkan ke Bima.
 
-SFX/MUSIK: Kaca celengan terbuka; satu lembar uang — diam hening sesaat.
+SFX/MUSIK: Kaca celengan dibuka; selembar uang — hening sesaat.
 
 SAMSUL
-Tambahkan telur.
+Tambahin telur.
 
 Bima menatap. Tersenyum. Samsul berpaling.
 
@@ -127,24 +127,24 @@ CUT TO:
 
 INT. WARUNG SAMSUL — PAGI (BEBERAPA HARI)
 
-Di etalase kini satu porsi nasi selalu disisihkan — papan kecil bertuliskan "UNTUK SIAPA YANG LAPAR". KAK TUA makan di sudut. Anak-anak kampung mulai berdatangan. Warung tidak lagi sepi.
+Sejak itu, satu porsi nasi selalu ada di etalase — papan kecil bertuliskan "UNTUK SIAPA YANG LAPAR". KAK TUA makan di sudut. Anak-anak kampung mulai berdatangan. Warung nggak sesepi dulu.
 
-SFX/MUSIK: Suara anak-anak tertawa; sendok di piring; paku kecil menancap di papan.
+SFX/MUSIK: Anak-anak tertawa; sendok di piring; paku kecil menancap di papan.
 
 EXT. PASAR — SIANG
 
-PAK DARTO berbicara keras pada dua ibu.
+PAK DARTO ngomong keras ke dua ibu.
 
-SFX/MUSIK: Pasar ramai; lalu bisik-bisik menyebar, nada kecurigaan.
+SFX/MUSIK: Pasar ramai; lalu bisik-bisik menyebar.
 
 PAK DARTO
-Kalian tahu? Samsul itu pamer. Sok dermawan. Padahal pelitnya minta ampun. Itu akal-akalan biar laku.
+Kalian tahu? Samsul itu pamer. Sok dermawan. Padahal pelitnya minta ampun. Itu cuma gaya-gayaan biar laku.
 
 INT. WARUNG SAMSUL — MALAM
 
-Warung kembali sepi. Hanya Kak Tua yang datang — seperti biasa. Samsul membuka amplop sewa. Menghitung. Kurang. Ia memandang etalase — nasi untuk yang lapar. Tangannya gemetar.
+Warung sepi lagi. Cuma Kak Tua yang datang — kayak biasa. Samsul buka amplop sewa. Dihitung. Kurang. Dia memandang etalase — nasi untuk yang lapar. Tangannya gemetar.
 
-SFX/MUSIK: Amplop dibuka; kertas dihitung; detak jam dinding makin jelas.
+SFX/MUSIK: Amplop dibuka; kertas dihitung; detak jam makin jelas.
 
 SAMSUL
 Bima. Besok, jatah itu... berhenti.
@@ -153,21 +153,21 @@ BIMA
 Pak—
 
 SAMSUL
-Orang bilang aku pamer. Kalau tetap memberi, kita bangkrut. Aku tidak mau kehilangan warung ini.
+Kata orang aku pamer. Kalau tetap kasih, kita bangkrut. Aku nggak mau kehilangan warung ini.
 
 Bima menunduk lama. Lalu meletakkan celemeknya di meja.
 
 SFX/MUSIK: Celemek dilipat — suara kain, pelan.
 
 BIMA
-Kalau begitu, saya pamit, Pak.
+Kalau gitu, saya pamit, Pak.
 
 SAMSUL
 Bima—
 
 Bima sudah pergi.
 
-SFX/MUSIK: Pintu warung tertutup. Sunyi.
+SFX/MUSIK: Pintu warung ditutup. Sunyi.
 
 EXT. WARUNG SAMSUL — PAGI (BULAN DEPAN)
 
@@ -176,31 +176,31 @@ Hari penggusuran. Langit mendung. Pak Lurah datang dengan dua pekerja. Samsul be
 SFX/MUSIK: Petir jauh; langkah kaki di tanah becek.
 
 PAK LURAH
-Samsul... maaf, Nak.
+Samsul... maaf, ya.
 
-Tiba-tiba: BUK WARSIH (50) datang. Lalu ibu-ibu lain. Lalu anak-anak. Lalu Kak Tua. Satu per satu mereka berdiri di depan warung — menghalangi.
+Tiba-tiba BUK WARSIH (50) datang. Lalu ibu-ibu lain. Lalu anak-anak. Lalu Kak Tua. Satu per satu mereka berdiri di depan warung — menghalangi.
 
 SFX/MUSIK: Langkah kaki berhenti satu per satu. Hening.
 
 BUK WARSIH
-Pak Lurah. Warung ini yang memberi anak saya makan selama anak saya sakit.
+Pak Lurah, warung ini yang kasih makan anak saya waktu dia sakit.
 
 IBU KEDUA
-Dan anak kami, setiap pagi.
+Dan anak kami, tiap pagi.
 
 KAK TUA
-Dan saya, setiap hari.
+Dan saya, tiap hari.
 
-Warga mengeluarkan uang receh dan lembaran, disatukan di atas tikar. Pak Darto, yang datang menonton, mengerutkan dahi. Seseorang menyerahkan buku iuran.
+Warga mengeluarkan uang receh dan lembaran, ditumpuk di atas tikar. Pak Darto, yang datang nonton, mengerutkan dahi. Seseorang menyerahkan buku iuran.
 
-SFX/MUSIK: Uang receh jatuh di tikar — bunyi logam bertumpuk.
+SFX/MUSIK: Uang receh jatuh di tikar — logam bertumpuk.
 
 BUK WARSIH
-Ini iuran kami, Pak Lurah. Untuk sewa. Dari orang-orang yang warung ini beri makan.
+Ini iuran kami, Pak Lurah. Buat sewa. Dari orang-orang yang dulu warung ini kasih makan.
 
-Samsul tidak bisa berkata-kata. Pak Lurah menghitung uang di tikar. Cukup. Tepat.
+Samsul nggak bisa ngomong. Pak Lurah menghitung uang di tikar. Cukup. Pas.
 
-SFX/MUSIK: Musik gamelan mulai naik, pelan.
+SFX/MUSIK: Gamelan mulai naik, pelan.
 
 PAK LURAH
 (menyerahkan surat kembali)
@@ -210,27 +210,27 @@ Pak Darto menunduk, pergi perlahan.
 
 INT. WARUNG SAMSUL — SIANG (KEESOKAN)
 
-Warung penuh. Samsul melayani dengan tangan sigap. Di etalase: nasi "UNTUK SIAPA YANG LAPAR" — tetap ada, dengan tambahan papan baru: "JUMAT: GRATIS UNTUK ANAK YATIM".
+Warung penuh. Samsul melayani dengan tangan sigap. Di etalase: nasi "UNTUK SIAPA YANG LAPAR" — tetap ada, ditambah papan baru: "JUMAT: GRATIS UNTUK ANAK YATIM".
 
-Bima kembali. Samsul menyerahkan celemek.
+Bima balik. Samsul menyerahkan celemek.
 
-SFX/MUSIK: Suara warung ramai; tawa anak kecil.
+SFX/MUSIK: Warung ramai; tawa anak kecil.
 
 SAMSUL
-Kembalilah. Mulai hari ini kamu yang pegang warung. Aku yang pegang dapur.
+Balik sini. Mulai hari ini, kamu yang jaga warung. Aku di dapur.
 
 BIMA
 Pak—
 
 SAMSUL
-Kau yang mengajari warung ini. Sekarang biar warung ini yang mengajari aku.
+Kamu yang ngajarin warung ini. Sekarang biar warung yang ngajarin aku.
 
-Close-up: tangan Samsul menyendok sambal ke piring anak kecil — tanpa menakar. Anak kecil itu tersenyum.
+Close-up: tangan Samsul menyendok sambal ke piring anak kecil — tanpa ditakar. Anak kecil itu tersenyum.
 
 SFX/MUSIK: Sendok menyendok sambal — satu bunyi, ringan. Gamelan menguat.
 
 SAMSUL (V.O.)
-Orang bilang aku pelit. Mungkin dulu benar. Tapi celenganku sekarang bukan kaca dan uang. Celenganku... yang makan di mejaku.
+Orang bilang aku pelit. Mungkin dulu iya. Tapi celenganku sekarang bukan kaca berisi uang. Celenganku... orang-orang yang makan di mejaku.
 
 SFX/MUSIK: Gamelan memudar. Hening.
 
